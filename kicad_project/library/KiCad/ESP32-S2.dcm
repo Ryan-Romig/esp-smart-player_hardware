@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-S2
+D SMD WI-FI IC, ESP32-S2, SINGAL-C
+K
+F https://componentsearchengine.com/Datasheets/1/ESP32-S2.pdf
+$ENDCMP
+#
+#End Doc Library
